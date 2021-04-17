@@ -4,4 +4,5 @@ html,body {
 }
 section{
     box-sizing: border-box;
+    background-image: url(bg.png);
 }
